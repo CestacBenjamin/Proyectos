@@ -1,0 +1,8 @@
+C:\Users\bcest\source\repos\ServicesLibrary\obj\Debug\net8.0\ServicesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bcest\source\repos\ServicesLibrary\obj\Debug\net8.0\ServicesLibrary.AssemblyInfoInputs.cache
+C:\Users\bcest\source\repos\ServicesLibrary\obj\Debug\net8.0\ServicesLibrary.AssemblyInfo.cs
+C:\Users\bcest\source\repos\ServicesLibrary\obj\Debug\net8.0\ServicesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bcest\OneDrive\Escritorio\Proyecto[04]\ServicesLibrary\obj\Debug\net8.0\ServicesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bcest\OneDrive\Escritorio\Proyecto[04]\ServicesLibrary\obj\Debug\net8.0\ServicesLibrary.AssemblyInfoInputs.cache
+C:\Users\bcest\OneDrive\Escritorio\Proyecto[04]\ServicesLibrary\obj\Debug\net8.0\ServicesLibrary.AssemblyInfo.cs
+C:\Users\bcest\OneDrive\Escritorio\Proyecto[04]\ServicesLibrary\obj\Debug\net8.0\ServicesLibrary.csproj.CoreCompileInputs.cache

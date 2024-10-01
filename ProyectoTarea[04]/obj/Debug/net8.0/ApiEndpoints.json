@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "ProyectoTarea_04_.Controllers.ServicesController",
+    "Method": "Get",
+    "RelativePath": "api/Services",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoTarea_04_.Controllers.ServicesController",
+    "Method": "Post",
+    "RelativePath": "api/Services",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "servicio",
+        "Type": "ProyectoTarea_04_.Models.TServicio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoTarea_04_.Controllers.ServicesController",
+    "Method": "Get",
+    "RelativePath": "api/Services/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoTarea_04_.Controllers.ServicesController",
+    "Method": "Delete",
+    "RelativePath": "api/Services/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
